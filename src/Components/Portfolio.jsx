@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/office.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "labtop on the left and book with a hand on the right";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Country_Information_Search🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "About A WebApp use to find country information by Using React",
+    url: "https://github.com/Pheeraphat47/Country_Information_Search",
   },
   {
-    title: "Web Development for Beginners",
+    title: "WeatherWebApp",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Build a Weather web application by using weather api (javascript project) ",
+    url: "https://github.com/Pheeraphat47/WeatherWebApp",
   },
   {
-    title: "My Resume Site",
+    title: "Calculator_WebApp",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "About Calulator in Web Application Using State/UseState in React",
+    url: "https://github.com/Pheeraphat47/Calculator_WebApp",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "TypeScript-Project",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Project for Borntodev TypeScript Certificate",
+    url: "https://github.com/Pheeraphat47/TypeScript-Project",
   },
 ];
 
