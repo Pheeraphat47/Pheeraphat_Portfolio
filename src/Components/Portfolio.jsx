@@ -32,8 +32,7 @@ const imageAltText = "labtop on the left and book with a hand on the right";
 const projectList = [
   {
     title: "Country_Information_Search🎉",
-    description:
-      "About A WebApp use to find country information by Using React",
+    description: "About A WebApp use to find country information by Using React",
     url: "https://github.com/Pheeraphat47/Country_Information_Search",
   },
   {
